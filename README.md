@@ -6,7 +6,7 @@ A starting place for pre-trained models is [Caffe’s Model Zoo](https://github.
 
 To generate the emotion recognition Core ML file, `EmotiClassifier.mlmodel`:
 
-1. Download the [EmotiW_VGG_S.caffemodel](https://drive.google.com/file/d/0B2LjH7PqjxxtRHRFTHQ0VmlROXc/view?usp=sharing)
+1. Download the [EmotiW_VGG_S.caffemodel](https://drive.google.com/file/d/0BydFau0VP3XSNVYtWnNPMU1TOGM/view)
 
 2. Place `EmotiW_VGG_s.caffemodel` in this repository's directory
    
