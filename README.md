@@ -22,19 +22,15 @@ To generate the emotion recognition Core ML file, `EmotiClassifier.mlmodel`:
 
 4. Check that dependencies are installed correctly. We're required to use Python < 3.0, and it is recommended to use virtualenv to run it.
 
-`pip install --upgrade pip
-
+```
+pip install --upgrade pip
 pip install –U virtualenv
-
 cd ~
-
 virtualenv --python=/usr/bin/python2.7 coreml
-
 source coreml/bin/activate
-
 pip install -U coremltools
-
-pip install -U jupyter`
+pip install -U jupyter
+```
 
 
 5. `jupyter notebook`
