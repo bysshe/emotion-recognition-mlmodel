@@ -24,7 +24,7 @@ To generate the emotion recognition Core ML file, `EmotiClassifier.mlmodel`:
 
 ```
 pip install --upgrade pip
-pip install –U virtualenv
+pip install virtualenv
 cd ~
 virtualenv --python=/usr/bin/python2.7 coreml
 source coreml/bin/activate
